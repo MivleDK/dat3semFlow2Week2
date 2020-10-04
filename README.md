@@ -21,13 +21,12 @@ Written answer for EX2 pt. 4 can be found in the readme in the Day4 folder.
 #### Day 5
 
 **Exam preparation exercise about AJAX, CORS and SVG**
-Front-end on surge [here]()  
-back-end API Proxy in this repo under day 5.  
+Frontend and backend can be found in seperate folders in the folder "Day 5".
 Written answers for this assignment can be found in the Day 5 folder.
 
 
 **Frontend Exercise**
-Deployed on surge [here]()
+Deployed on surge [here](http://dat3semf2w2d5.surge.sh)
 
 
 
