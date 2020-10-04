@@ -14,12 +14,10 @@ Event bubbling is a way to propogate an event through a "Hierocracy" of elements
 An event can propogate or "Bubble" up through elements which allows for detecting where the event took place.
 This snippet clearly demonstrates the functionality:
 
-<p class="codepen" data-height="296" data-theme-id="dark" data-default-tab="js,result" data-user="grevmivlos" data-slug-hash="ExKqLvr" style="height: 296px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Mick - Dat3Sem - Event bubbling">
-  <span>See the Pen <a href="https://codepen.io/grevmivlos/pen/ExKqLvr">
-  Mick - Dat3Sem - Event bubbling</a> by Mick (<a href="https://codepen.io/grevmivlos">@grevmivlos</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="296" style="width: 100%;" scrolling="no" title="Mick - Dat3Sem - Event bubbling" src="https://codepen.io/grevmivlos/embed/ExKqLvr?height=296&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/grevmivlos/pen/ExKqLvr'>Mick - Dat3Sem - Event bubbling</a> by Mick
+  (<a href='https://codepen.io/grevmivlos'>@grevmivlos</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 #### Elaborate on how JSON or XML supports communication between subsystems, even when the subsystems are implemented on diﬀerent platforms.
 asd
