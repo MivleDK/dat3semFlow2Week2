@@ -22,7 +22,7 @@ Written answer for EX2 pt. 4 can be found in the readme in the Day4 folder.
 
 **Exam preparation exercise about AJAX, CORS and SVG**
 Frontend and backend can be found in seperate folders in the folder "Day 5".
-Written answers for this assignment can be found in the Day 5 folder.
+Written answers for this assignment can be found in the Day 5 folder [here](/Day5/README.md).
 
 
 **Frontend Exercise**
